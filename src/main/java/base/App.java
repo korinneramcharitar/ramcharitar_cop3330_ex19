@@ -1,3 +1,11 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Korinne Ramcharitar
+ */
+
+
+
+
 package base;
 import java.text.DecimalFormat;
 import java.util.Scanner;
